@@ -1,0 +1,115 @@
+charset "UTF-8";
+/* CSS Document */
+
+.container {width: 900px;
+	        height: 1000px;
+            margin: 0px auto 0px auto;}
+
+.menu {width: 100%;
+       font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";}
+
+.text1 {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	    width: 65%;
+        height: 200px;
+        padding: 10px 10px 10px 175px;
+        position: absolute;
+        float: left;}
+
+.foto1 {width: 1000px;
+       height: 800px;
+       position: absolute; /* Абсолютное позиционирование */
+       
+	bottom: 200px; /* Положение от нижнего края */
+    right: 200px; /* Положение от правого края */
+	left: 10px;
+	top: 600px;
+    
+	float: none;}
+
+
+.text2 {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	    width: 65%;
+        height: 200px;
+        padding: 220px 10px 10px 10px;
+        position: absolute;
+        float: none;}
+
+
+.foto2 {width: 1000px;
+       height: 800px;
+       position: absolute; 
+	
+       
+	bottom: 200px; /* Положение от нижнего края */
+    right: 10px; /* Положение от правого края */
+	left: 1050px;
+	top: 840px;
+	float: right;}
+
+
+.text3 {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+	    }
+
+.foto3 {width: 1000px;
+       height: 800px;
+       bottom: 200px; /* Положение от нижнего края */
+    right: 10px; /* Положение от правого края */
+	left: 1050px;
+	top: 840px;
+	float: right;}
+
+
+.text4 {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	    width: 65%;
+        height: 200px;
+        padding: 300px 10px 10px 175px;
+        position: absolute;
+        float: left;}
+
+.foto4 {width: 1000px;
+       height: 800px;
+       position: absolute; /* Абсолютное позиционирование */
+       
+	bottom: 200px; /* Положение от нижнего края */
+    right: 200px; /* Положение от правого края */
+	left: 10px;
+	top: 900px;
+    
+	float: none;}
+
+.text5 {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	    width: 65%;
+        height: 200px;
+        padding: 20px 10px 10px 10px;
+        position: absolute;
+        float: none;}
+
+.foto6 {width: 1000px;
+       height: 800px;
+       position: absolute; /* Абсолютное позиционирование */
+       
+	bottom: 200px; /* Положение от нижнего края */
+    right: 10px; /* Положение от правого края */
+	left: 1075px;
+	top: 815px;
+    
+	float: none;}
+
+.text6 {font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	    width: 65%;
+        height: 200px;
+        padding: 200px 10px 10px 10px;
+        position: absolute;
+        float: none;}
+
+.foto7 {width: 1000px;
+       height: 800px;
+       position: absolute; /* Абсолютное позиционирование */
+       
+	bottom: 200px; /* Положение от нижнего края */
+    right: 10px; /* Положение от правого края */
+	left: 1075px;
+	top: 1000px;
+    
+	float: none;}
